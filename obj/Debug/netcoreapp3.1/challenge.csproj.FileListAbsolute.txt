@@ -1,0 +1,4 @@
+/Users/codenationstudent/Desktop/pie challenge/obj/Debug/netcoreapp3.1/challenge.csprojAssemblyReference.cache
+/Users/codenationstudent/Desktop/pie challenge/obj/Debug/netcoreapp3.1/challenge.AssemblyInfoInputs.cache
+/Users/codenationstudent/Desktop/pie challenge/obj/Debug/netcoreapp3.1/challenge.AssemblyInfo.cs
+/Users/codenationstudent/Desktop/pie challenge/obj/Debug/netcoreapp3.1/challenge.csproj.CoreCompileInputs.cache

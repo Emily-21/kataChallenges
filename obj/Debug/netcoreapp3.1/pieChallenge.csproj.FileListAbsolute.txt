@@ -1,0 +1,12 @@
+/Users/codenationstudent/Desktop/pieChallenge/obj/Debug/netcoreapp3.1/pieChallenge.csprojAssemblyReference.cache
+/Users/codenationstudent/Desktop/pieChallenge/obj/Debug/netcoreapp3.1/pieChallenge.AssemblyInfoInputs.cache
+/Users/codenationstudent/Desktop/pieChallenge/obj/Debug/netcoreapp3.1/pieChallenge.AssemblyInfo.cs
+/Users/codenationstudent/Desktop/pieChallenge/obj/Debug/netcoreapp3.1/pieChallenge.csproj.CoreCompileInputs.cache
+/Users/codenationstudent/Desktop/pieChallenge/bin/Debug/netcoreapp3.1/pieChallenge.deps.json
+/Users/codenationstudent/Desktop/pieChallenge/bin/Debug/netcoreapp3.1/pieChallenge.runtimeconfig.json
+/Users/codenationstudent/Desktop/pieChallenge/bin/Debug/netcoreapp3.1/pieChallenge.runtimeconfig.dev.json
+/Users/codenationstudent/Desktop/pieChallenge/bin/Debug/netcoreapp3.1/pieChallenge.dll
+/Users/codenationstudent/Desktop/pieChallenge/bin/Debug/netcoreapp3.1/pieChallenge.pdb
+/Users/codenationstudent/Desktop/pieChallenge/obj/Debug/netcoreapp3.1/pieChallenge.dll
+/Users/codenationstudent/Desktop/pieChallenge/obj/Debug/netcoreapp3.1/pieChallenge.pdb
+/Users/codenationstudent/Desktop/pieChallenge/obj/Debug/netcoreapp3.1/pieChallenge.genruntimeconfig.cache
